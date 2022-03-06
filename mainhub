@@ -1,4 +1,4 @@
-local library = loadstring(game:GetObjects("rbxassetid://7657867786")[1].Source)()
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/cotton12moneypooppee12/ricepepsi/main/ri", true))()
 local shiroMain = library:CreateWindow({
 Name = "shiro.",
 Themeable = {
